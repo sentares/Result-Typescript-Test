@@ -1,0 +1,6 @@
+{
+	"watch": ["src"],
+	"ext": "ts,js",
+	"ignore": [],
+	"exec": "node --no-deprecation --import ./loader.mjs ./src/index.ts"
+}
